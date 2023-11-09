@@ -1,1 +1,31 @@
 
+# Importiamo il modulo random per generare numeri casuali
+import random
+
+# Funzione che avvia il gioco
+def gioca():
+    print("Benvenuto a Indovina il Numero!")
+    print("Sto pensando a un numero tra 1 e 10...")
+
+    # Generiamo un numero casuale tra 1 e 10
+    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
+
+    while True:
+        # Chiediamo all'utente di inserire un numero
+        guess = int(input("Indovina il numero: "))
+
+        # Incrementiamo il numero di tentativi
+        tentativi += 1
+
+        # Verifichiamo se il numero è corretto
+        if guess == numero_da_indovinare:
+            print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+            break
+        else:
+            # Forniamo suggerimenti all'utente
+            print("Ops! Numero sbagliato. Prova di nuovo.")
+
+# Chiamiamo la funzione per avviare il gioco
+gioca()
