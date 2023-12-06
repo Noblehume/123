@@ -29,12 +29,6 @@ def gioca():
 
 # Chiamiamo la funzione per avviare il gioco
 gioca()
-
-
-
-
-
-
 import random
 
 def gioca():
