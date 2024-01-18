@@ -52,5 +52,206 @@ def gioca():
         except ValueError:
             print("Inserisci un numero valido.")
 
+gioca    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
+
+    while True:
+        try:
+            guess = int(input("Indovina il numero: "))
+            tentativi += 1
+
+            if guess == numero_da_indovinare:
+                print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+                break
+            else:
+                print("Ops! Numero sbagliato. Prova di nuovo.")
+        except ValueError:
+            print("Inserisci un numero valido.")
+
+gioca()
+    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
+
+    while True:
+        try:
+            guess = int(input("Indovina il numero: "))
+            tentativi += 1
+
+            if guess == numero_da_indovinare:
+                print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+                break
+            else:
+                print("Ops! Numero sbagliato. Prova di nuovo.")
+        except ValueError:
+            print("Inserisci un numero valido.")
+
+gioca()
+    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
+
+    while True:
+        try:
+            guess = int(input("Indovina il numero: "))
+            tentativi += 1
+
+            if guess == numero_da_indovinare:
+                print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+                break
+            else:
+                print("Ops! Numero sbagliato. Prova di nuovo.")
+        except ValueError:
+            print("Inserisci un numero valido.")
+
+gioca()
+    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
+
+    while True:
+        try:
+            guess = int(input("Indovina il numero: "))
+            tentativi += 1
+
+            if guess == numero_da_indovinare:
+                print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+                break
+            else:
+                print("Ops! Numero sbagliato. Prova di nuovo.")
+        except ValueError:
+            print("Inserisci un numero valido.")
+
+gioca()
+    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
+
+    while True:
+        try:
+            guess = int(input("Indovina il numero: "))
+            tentativi += 1
+
+            if guess == numero_da_indovinare:
+                print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+                break
+            else:
+                print("Ops! Numero sbagliato. Prova di nuovo.")
+        except ValueError:
+            print("Inserisci un numero valido.")
+
+gioca()
+    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
+
+    while True:
+        try:
+            guess = int(input("Indovina il numero: "))
+            tentativi += 1
+
+            if guess == numero_da_indovinare:
+                print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+                break
+            else:
+                print("Ops! Numero sbagliato. Prova di nuovo.")
+        except ValueError:
+            print("Inserisci un numero valido.")
+
 gioca()
 
+    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
+
+    while True:
+        try:
+            guess = int(input("Indovina il numero: "))
+            tentativi += 1
+
+            if guess == numero_da_indovinare:
+                print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+                break
+            else:
+                print("Ops! Numero sbagliato. Prova di nuovo.")
+        except ValueError:
+            print("Inserisci un numero valido.")
+
+gioca()
+
+    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
+
+    while True:
+        try:
+            guess = int(input("Indovina il numero: "))
+            tentativi += 1
+
+            if guess == numero_da_indovinare:
+                print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+                break
+            else:
+                print("Ops! Numero sbagliato. Prova di nuovo.")
+        except ValueError:
+            print("Inseriscivvv    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
+
+    while True:
+        try:
+            guess = int(input("Indovina il numero: "))
+            tentativi += 1
+
+            if guess == numero_da_indovinare:
+                print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+                break
+            else:
+                print("Ops! Numero sbagliato. Prova di nuovo.")
+        except ValueError:
+            print("Inserisci un numero valido.")
+
+gioca()
+
+    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
+
+    while True:
+        try:
+            guess = int(input("Indovina il numero: "))
+            tentativi += 1
+
+            if guess == numero_da_indovinare:
+                print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+                break
+            else:
+                print("Ops! Numero sbagliato. Prova di nuovo.")
+        except ValueError:
+            print("Inserisci un numero valido.")
+
+gioca()
+
+    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
+
+    while True:
+        try:
+            guess = int(input("Indovina il numero: "))
+            tentativi += 1
+
+            if guess == numero_da_indovinare:
+                print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+                break
+            else:
+                print("Ops! Numero sbagliato. Prova di nuovo.")
+        except ValueError:
+            print("Inserisci un numero valido.")
+
+gioca()
+
+    numero_da_indovinare = random.randint(1, 10)
+
+    tentativi = 0
