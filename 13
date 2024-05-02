@@ -17,6 +17,14 @@ def gioca():
             break
         else:
             # Forniamo suggerimenti all'utente
+            print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+            break
+        else:
+            # Forniamo suggerimenti all'utente
+            print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
+            break
+        else:
+            # Forniamo suggerimenti all'utente
             print("Ops! Numero sbagliato. Prova di nuovo.")
 
 # Chiamiamo la funzione per avviare il gioco
