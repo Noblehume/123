@@ -9,15 +9,6 @@ def gioca():
 
     # Generiamo un numero casuale tra 1 e 10
     numero_da_indovinare = random.randint(1, 10)
-
-
-        # Verifichiamo se il numero è corretto
-        if guess == numero_da_indovinare:
-            print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
-            break
-        else:
-            # Forniamo suggerimenti all'utente
-            print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
             break
         else:
             # Forniamo suggerimenti all'utente
