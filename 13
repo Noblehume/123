@@ -8,15 +8,7 @@ def gioca():
     print("Sto pensando a un numero tra 1 e 10...")
 
     # Generiamo un numero casuale tra 1 e 10
-    numero_da_indovinare = random.randint(1, 10)
-            break
-        else:
-            # Forniamo suggerimenti all'utente
-            print(f"Complimenti! Hai indovinato il numero in {tentativi} tentativi.")
-            break
-        else:
-            # Forniamo suggerimenti all'utente
-            print("Ops! Numero sbagliato. Prova di nuovo.")
+    numer.")
 
 # Chiamiamo la funzione per avviare il gioco
 gioca()
